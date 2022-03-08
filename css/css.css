@@ -1328,7 +1328,7 @@ body a {
 
 @media (max-width: 425px) {
   .patron__contactlist-div1 {
-    padding: 0px 30px 0px 0px;
+    padding: 0px 30px 0px 40px;
   }
 }
 
